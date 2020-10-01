@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-hetzner:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2020-10-01T15:52:35.542411451+02:00"
+    description: A Helm chart for the Hetzner DNS webhook for cert-manager
+    digest: dc4d327b7d7bfb691d46419b21b7303d22a610c4153c075c44f8f6718720fdf6
+    maintainers:
+    - name: mecodia GmbH
+      url: https://github.com/mecodia/cert-manager-webhook-hetzner
+    name: cert-manager-webhook-hetzner
+    urls:
+    - cert-manager-webhook-hetzner-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-01T15:52:35.541459797+02:00"
